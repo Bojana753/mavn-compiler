@@ -1,0 +1,9 @@
+﻿  FiniteStateMachine.cpp
+  Ispis.cpp
+  LexicalAnalysis.cpp
+  LivenessAnalysis.cpp
+  main.cpp
+  SyntaxAnalysis.cpp
+  Token.cpp
+  Generating Code...
+  LexicalAnalysis.vcxproj -> D:\oppisa\2._Bojana_Milosevic\2. Bojana Milosevic\src\Debug\LexicalAnalysis.exe
